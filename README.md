@@ -77,7 +77,12 @@ This command will grow `MoreRam.exe` to 800MB using random byte padding. The res
 
 Two screenshots are included in this repository to show:
 - A normal executable before padding
+  
+![](images/1.png)
+  
 - The same executable after padding, showing increased size and preserved functionality
+
+![](images/2.png)  
 
 ---
 
