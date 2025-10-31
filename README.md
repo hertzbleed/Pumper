@@ -13,6 +13,7 @@ This project demonstrates a simple yet highly effective technique used to evade 
 Most antivirus engines and endpoint protection solutions impose size limits to avoid performance degradation during scans. These limits are often hardcoded or configurable and apply to:
 - Cloud submission
 - Real-time memory analysis
+- Sandbox analysis
 
 By inflating a file's size beyond these thresholds, attackers can prevent AVs from even attempting to analyze the file, thereby only having to worry about static detection.
 
